@@ -1,3 +1,15 @@
+## Proyecto App Calendario
+App creada para getionar citas y eventos, que cualquier usuario se pueda logear, registrar, ver los eventos y citas disponibles.
+## Lenguajes usados
+* Html
+* Css
+* Apis
+* Php
+* Mysql
+* JavaScript
+* Docker
+* Figma
+
 PHPDocker.io generated environment
 ==================================
 
