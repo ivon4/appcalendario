@@ -1,6 +1,6 @@
-## Proyecto App Calendario
-App creada para getionar citas y eventos, que cualquier usuario se pueda logear, registrar, ver los eventos y citas disponibles.
-## Lenguajes usados
+## Project App Calendario
+App created to manage appointments and events, so that any user can log in, register, see the events and appointments available.
+## Programming languages
 * Html
 * Css
 * Apis
@@ -9,7 +9,25 @@ App creada para getionar citas y eventos, que cualquier usuario se pueda logear,
 * JavaScript
 * Docker
 * Figma
+## Images
+<img width="593" alt="Captura de pantalla 2023-06-30 185357" src="https://github.com/ivon4/appcalendario/assets/127293745/e546f492-9698-487f-a215-85c23c51b18e">
+<br>
+<img width="510" alt="Captura de pantalla 2023-06-30 185722" src="https://github.com/ivon4/appcalendario/assets/127293745/908d78da-16f7-4621-b070-71c8c77b58d6">
+<br>
+<img width="516" alt="Captura de pantalla 2023-06-30 185435" src="https://github.com/ivon4/appcalendario/assets/127293745/2aeb43d0-3639-4b74-a7d4-ddf117a904a0">
 
+
+<img width="476" alt="Captura de pantalla 2023-06-30 185505" src="https://github.com/ivon4/appcalendario/assets/127293745/5d9238b9-657b-4d20-a486-b3f3657db536">
+<img width="371" alt="Captura de pantalla 2023-06-30 185517" src="https://github.com/ivon4/appcalendario/assets/127293745/72e9c62c-1389-40c2-b2d3-2b21b100eeff">
+
+
+
+
+
+
+
+  
+## software installation
 PHPDocker.io generated environment
 ==================================
 
